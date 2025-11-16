@@ -58,7 +58,7 @@
 
 #define PLUGIN_VERSION  "6.3.8"
 
-#define UPDATE_URL      "https://raw.githubusercontent.com/sapphonie/StAC-tf2/master/updatefile.txt"
+#define UPDATE_URL      "https://raw.githubusercontent.com/beyondtf/StAC-tf2gr/master/updatefile.txt"
 
 public Plugin myinfo =
 {
